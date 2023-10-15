@@ -1,0 +1,2 @@
+In this team projected we studied the formal mathematical layout of Inverse Problems and we applied these ideas to Imaging Techniques, in partictlar Deblurring.
+The file 'TVreg.ipynb' contains the code we used to play with TV regularization.
